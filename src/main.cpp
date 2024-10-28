@@ -1,6 +1,6 @@
-#include <stdio.h>
-
+#include <iostream>
+using namespace std;
 int main(char* args[]){
-    printf("Hello, World\n");
+    printf("Hello, World, 2nd version\n");
     return 0;
 }
